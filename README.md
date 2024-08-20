@@ -31,7 +31,6 @@ root@b-01:~# echo "c0ntact" > /dev/null; dmesg
 ```
 ---
 ```
-root@b-01:~# dmesg -c
 root@b-01:~# rmmod bezumiya
 !! Nice Try !!
 
