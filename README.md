@@ -36,3 +36,4 @@ root@b-01:~# rmmod bezumiya
 
 Connection to ***.***.***.*** closed.
 ```
+![](https://komarev.com/ghpvc/?username=bezumiya)
