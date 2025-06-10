@@ -21,7 +21,7 @@ root@b-01:~# dmesg -c
 root@b-01:~# echo "c0ntact" > /dev/null; dmesg
 [    0.000000] bezumiya: [Email]:   bezumiya@riseup.net
 [    0.000000] bezumiya: [discord]: bezumiya
-[    0.000000] bezumiya: [xmpp]:    bezumiya@exploit.im
+[    0.000000] bezumiya: [xmpp]:    bezu@pwned.life
 ```
 ---
 ```
