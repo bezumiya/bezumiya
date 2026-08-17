@@ -20,7 +20,7 @@ root@b-01:~# echo "Skill$" > /dev/null; dmesg
 root@b-01:~# dmesg -c
 root@b-01:~# echo "c0ntact" > /dev/null; dmesg
 [    0.000000] bezumiya: [Email]:   bezumiya@riseup.net
-[    0.000000] bezumiya: [discord]: xbezumiya
+[    0.000000] bezumiya: [discord]: sigtermkill
 [    0.000000] bezumiya: [twitter]: obezumiya
 ```
 ---
